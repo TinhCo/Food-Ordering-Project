@@ -1,4 +1,4 @@
-# Zosh Food
+# Food Ordering Project
 
 1. **User:**
     - ID (Auto-generated)
